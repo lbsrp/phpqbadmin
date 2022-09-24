@@ -5,7 +5,7 @@
  $dbinfo = array();
  // Database Configuration Begins
  $dbinfo['username'] = "root"; // MySQL user name
- $dbinfo['password'] = ""; // MySQL Password
+ $dbinfo['password'] = "MySQLisAQu33n!"; // MySQL Password
  $dbinfo['host'] = "localhost"; // MySQL Server Address
  $dbinfo['dbname'] = "phpqbadmin"; // Database Name
  $lang = "English"; // Set default language -- Currently only English is Supported
